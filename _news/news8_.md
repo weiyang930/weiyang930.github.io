@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📰 Interviewed by **MIT Technology Review (China)**: [article](https://wap.mittrchina.com/news/detail/15464)
+📰 Interviewed by **MIT Technology Review**: [article](https://wap.mittrchina.com/news/detail/15464)
