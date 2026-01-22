@@ -17,12 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 15 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -33,56 +33,27 @@ My name is Wei Yang. Currently, I am pursuing my Ph.D. at the Viterbi School of 
 
 My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent LLM Systems**, **Multi-Agent RL**, and **Generative & Multimodal Recommendation**:
 
-### 🤖 Agentic LLM Systems
-
-- **Theory-of-Mind Multi-Agent Reasoning**
-- **Meta-Deliberation & Collective Intelligence**
-- **Coordination Protocols & Role Specialization**
-- **Tree-Structured Judgement & Multi-Agent Verification**
-
-### ⚡ Efficient Multi-Agent LLM Systems
-
-- **Cost-Aware Collaboration & Budgeted Decision Making**
-- **Communication-Efficient Orchestration**
-- **Multi-Agent Reasoning Compression (CoT Distillation)**
-- **Robust MARL & Credit Assignment**
-
 - **Agentic LLM Systems**
-  - Theory-of-Mind Multi-Agent Reasoning
-  - Meta-Deliberation & Collective Intelligence
-  - Coordination Protocols & Role Specialization
-  - Tree-Structured Judgement & Multi-Agent Verification
+  - Theory-of-Mind Reasoning
+  - Meta-Thinking Collaboration
+  - Effective Coordination Protocols
+  - LLM as Judgement
 
 - **Efficient Multi-Agent LLM Systems**
-  - Cost-Aware Collaboration & Budgeted Decision Making
-  - Communication-Efficient Orchestration
-  - Multi-Agent Reasoning Compression (CoT Distillation)
-  - Robust MARL & Credit Assignment
+  - LLM Reasoning Compression
+  - Cost-Aware & Budgeted Collaboration
+  - Efficient MARL Algorithms
 
 - **Reasoning-Centric Generative Recommendation**
-  - ID-Centric Generation & Controllable Decoding
-  - Lifelong Preference Reasoning with Hierarchical Search
-  - R³ Loops: Reasoning–Reflection–Refinement for Recommendation
-  - Preference Alignment & Iterative Feedback Optimization
+  - ID-Centric Generation
+  - User Lifelong Preference Reasoning
+  - Preference Alignment & Optimization
 
 - **Multimodal Recommendation**
-  - Frequency-Aware Modeling in Multimodal Representation Spaces
-  - Spectral Learning on Multimodal Interaction Graphs
-  - Cross-Modal Fusion, Alignment, and Information Routing
-  - Temporal Multimodal User Interest Modeling
+  - Multimodal Graph Spectral Learning
+  - Cross-Modal Fusion & Alignment
+  - Multimodal User Interest Modeling
 
-
-- **Agentic LLM Systems**
-  - Tool-augmented reasoning & planning
-  - Agent collaboration and evaluation
-
-- **Multi-Agent Reinforcement Learning**
-  - Credit assignment and coordination
-  - Learning to deliberate for complex tasks
-
-- **Multimodal Recommendation**
-  - LLM-enhanced representation learning
-  - Graph-augmented multimodal modeling
 
 ## 🗞️ News
 
@@ -99,12 +70,3 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 | Apr 05, 2025 | 🎉 One paper is accepted by **SIGIR 2025**. |
 | Jan 15, 2025 | 🎉🎉 Two papers are accepted by **WWW 2025**. |
 | Jul 01, 2024 | 🎉🎉 Two papers are accepted by **ACM MM 2025**. |
-
-
-{% comment %}
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-{% endcomment %}
