@@ -33,6 +33,45 @@ My name is Wei Yang. Currently, I am pursuing my Ph.D. at the Viterbi School of 
 
 My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent LLM Systems**, **Multi-Agent RL**, and **Generative & Multimodal Recommendation**:
 
+### 🤖 Agentic LLM Systems
+
+- **Theory-of-Mind Multi-Agent Reasoning**
+- **Meta-Deliberation & Collective Intelligence**
+- **Coordination Protocols & Role Specialization**
+- **Tree-Structured Judgement & Multi-Agent Verification**
+
+### ⚡ Efficient Multi-Agent LLM Systems
+
+- **Cost-Aware Collaboration & Budgeted Decision Making**
+- **Communication-Efficient Orchestration**
+- **Multi-Agent Reasoning Compression (CoT Distillation)**
+- **Robust MARL & Credit Assignment**
+
+- **Agentic LLM Systems**
+  - Theory-of-Mind Multi-Agent Reasoning
+  - Meta-Deliberation & Collective Intelligence
+  - Coordination Protocols & Role Specialization
+  - Tree-Structured Judgement & Multi-Agent Verification
+
+- **Efficient Multi-Agent LLM Systems**
+  - Cost-Aware Collaboration & Budgeted Decision Making
+  - Communication-Efficient Orchestration
+  - Multi-Agent Reasoning Compression (CoT Distillation)
+  - Robust MARL & Credit Assignment
+
+- **Reasoning-Centric Generative Recommendation**
+  - ID-Centric Generation & Controllable Decoding
+  - Lifelong Preference Reasoning with Hierarchical Search
+  - R³ Loops: Reasoning–Reflection–Refinement for Recommendation
+  - Preference Alignment & Iterative Feedback Optimization
+
+- **Multimodal Recommendation**
+  - Frequency-Aware Modeling in Multimodal Representation Spaces
+  - Spectral Learning on Multimodal Interaction Graphs
+  - Cross-Modal Fusion, Alignment, and Information Routing
+  - Temporal Multimodal User Interest Modeling
+
+
 - **Agentic LLM Systems**
   - Tool-augmented reasoning & planning
   - Agent collaboration and evaluation
@@ -50,10 +89,10 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 | Date | Update |
 |---|---|
 | Jan 17, 2026 | 🎉 One paper is accepted by **ICASSP 2026**. |
-| Dec 16, 2025 | 🔥 We release **Towards Evolutionary Agentic LLMs with MARL Survey**. |
-| Nov 09, 2025 | 📰 Interviewed by **MIT Technology Review**: [article](https://wap.mittrchina.com/news/detail/15464) |
+| Dec 16, 2025 | 🔥 We release **Towards Evolutionary Agentic LLMs with MARL Survey**: [article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5819182) |
+| Nov 09, 2025 | 📰 Interviewed by **MIT Technology Review**: [article - Meta-Policy Multi-Agent Collaboration](https://wap.mittrchina.com/news/detail/15464) |
 | Nov 07, 2025 | 🎉 One paper is accepted by **AAAI 2026**. |
-| Sep 16, 2025 | 🔥 We release **Reasoning and Agentic LLMs for Time Series Survey**. |
+| Sep 16, 2025 | 🔥 We release **Reasoning and Agentic LLMs for Time Series Survey**: [article](https://arxiv.org/abs/2509.11575) |
 | Sep 10, 2025 | 🎉 One paper is accepted by **NeurIPS 2025**. |
 | Jul 05, 2025 | 🎉 One paper is accepted by **ACM MM 2025**. |
 | Jul 03, 2025 | 🎉 One paper is accepted by **RecSys 2025**. |
