@@ -45,6 +45,22 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
   - LLM-enhanced representation learning
   - Graph-augmented multimodal modeling
 
+## 🗞️ News
+
+| Date | Update |
+|---|---|
+| Jan 17, 2026 | 🎉 One paper is accepted by **ICASSP 2026**. |
+| Dec 16, 2025 | 🔥 We release **Towards Evolutionary Agentic LLMs with MARL Survey**. |
+| Nov 09, 2025 | 📰 Interviewed by **MIT Technology Review**: [article](https://wap.mittrchina.com/news/detail/15464) |
+| Nov 07, 2025 | 🎉 One paper is accepted by **AAAI 2026**. |
+| Sep 16, 2025 | 🔥 We release **Reasoning and Agentic LLMs for Time Series Survey**. |
+| Sep 10, 2025 | 🎉 One paper is accepted by **NeurIPS 2025**. |
+| Jul 05, 2025 | 🎉 One paper is accepted by **ACM MM 2025**. |
+| Jul 03, 2025 | 🎉 One paper is accepted by **RecSys 2025**. |
+| Apr 05, 2025 | 🎉 One paper is accepted by **SIGIR 2025**. |
+| Jan 15, 2025 | 🎉🎉 Two papers are accepted by **WWW 2025**. |
+| Jul 01, 2024 | 🎉🎉 Two papers are accepted by **ACM MM 2025**. |
+
 
 {% comment %}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
