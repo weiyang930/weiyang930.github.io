@@ -9,7 +9,8 @@ profile:
   image: wechat_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Los Angeles, US</p>
+  <p><i class="fa-solid fa-building-columns"></i> Viterbi School of Engineering, USC</p>
+  <p><i class="fa-solid fa-location-dot"></i> Los Angeles, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -25,7 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Wei Yang. Currently, I am pursuing my Ph.D. at the Viterbi School of Engineering, University of Southern California (USC), under the guidance of Prof. Jesse Thomason.
+My name is Wei Yang. Currently, I am pursuing my Ph.D. at the [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern California (USC), under the guidance of Prof. [Jesse Thomason](https://jessethomason.com/). I am a member of the [GLAMOR Lab](https://glamor-usc.github.io/). I received my B.S. degree from Huazhong University of Science and Technology.
+
 
 ## 🔬 Research Interests
 
