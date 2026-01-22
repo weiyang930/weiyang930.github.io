@@ -6,12 +6,10 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: wechat_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Los Angeles, US</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -70,3 +68,5 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 | Apr 05, 2025 | 🎉 One paper is accepted by **SIGIR 2025**. |
 | Jan 15, 2025 | 🎉🎉 Two papers are accepted by **WWW 2025**. |
 | Jul 01, 2024 | 🎉🎉 Two papers are accepted by **ACM MM 2025**. |
+
+<br>
