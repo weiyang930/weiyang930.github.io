@@ -69,7 +69,7 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 | Jul 03, 2025 | 🎉 One paper is accepted by **RecSys 2025**. |
 | Apr 05, 2025 | 🎉 One paper is accepted by **SIGIR 2025**. |
 | Jan 15, 2025 | 🎉🎉 Two papers are accepted by **WWW 2025**. |
-| Jul 01, 2024 | 🎉🎉 Two papers are accepted by **ACM MM 2025**. |
+| Jul 01, 2024 | 🎉🎉 Two papers are accepted by **ACM MM 2024**. |
 | Apr 05, 2024 | 🎉 One paper is accepted by **IJCAI 2024**. |
 
 <br>
