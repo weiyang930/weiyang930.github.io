@@ -59,6 +59,7 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 
 | Date | Update |
 |---|---|
+| Jan 26, 2026 | 🎉 One paper is accepted by **ICLR 2026**. |
 | Jan 17, 2026 | 🎉 One paper is accepted by **ICASSP 2026**. |
 | Dec 16, 2025 | 🔥 We release **Towards Evolutionary Agentic LLMs with MARL Survey**: [article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5819182) |
 | Nov 09, 2025 | 📰 Interviewed by <span style="color:#d11a2a;"><b>MIT Technology Review</b></span>: [article - Meta-Policy Multi-Agent Collaboration](https://wap.mittrchina.com/news/detail/15464) |
