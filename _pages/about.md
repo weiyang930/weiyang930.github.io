@@ -34,12 +34,12 @@ My name is Wei Yang. Currently, I am pursuing my Ph.D. at the [Viterbi School of
 My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent LLM Systems**, **Multi-Agent RL**, and **Generative & Multimodal Recommendation**:
 
 - **Agentic LLM Systems**
-  - Theory-of-Mind Reasoning
+  - Long-term Memory
   - Meta-Thinking Collaboration
-  - Effective Coordination Protocols
-  - LLM as Judgement
+  - Role Coordination
+  - Reliable LLM Judgement
 
-- **Efficient Multi-Agent LLM Systems**
+- **Efficient MAS LLMs Post-training**
   - LLM Reasoning Compression
   - Cost-Aware & Budgeted Collaboration
   - Efficient MARL Algorithms
