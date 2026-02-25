@@ -59,6 +59,8 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 
 | Date | Update |
 |---|---|
+| Feb 25, 2026 | 🎉 One paper is accepted by **TMLR 2026**. |
+| Feb 20, 2026 | 🔥 We release **TemporalBench Benchmark for LLM Agents on Contextual Time Series**: [article](https://arxiv.org/pdf/2602.13272)
 | Jan 26, 2026 | 🎉 One paper is accepted by **MLSys 2026**. |
 | Jan 26, 2026 | 🎉 One paper is accepted by **ICLR 2026**. |
 | Jan 17, 2026 | 🎉 One paper is accepted by **ICASSP 2026**. |
