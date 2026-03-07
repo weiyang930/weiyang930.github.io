@@ -48,7 +48,6 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
   - User Lifelong Preference Reasoning
   - Preference Alignment & Optimization
   - Cross-Modal Fusion & Alignment
-  - Multimodal User Interest Modeling
 
 
 ## 🗞️ News
