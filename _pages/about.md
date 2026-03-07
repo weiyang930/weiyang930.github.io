@@ -44,13 +44,9 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
   - Cost-Aware & Budgeted Collaboration
   - Efficient MARL Algorithms
 
-- **Reasoning-Centric Generative Recommendation**
-  - ID-Centric Generation
+- **Generative & Multimodal Ranking**
   - User Lifelong Preference Reasoning
   - Preference Alignment & Optimization
-
-- **Multimodal Recommendation**
-  - Multimodal Graph Spectral Learning
   - Cross-Modal Fusion & Alignment
   - Multimodal User Interest Modeling
 
