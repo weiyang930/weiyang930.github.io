@@ -31,7 +31,7 @@ My name is Wei Yang. Currently, I am pursuing my Ph.D. at the [Viterbi School of
 
 ## 🔬 Research Interests
 
-My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent LLM Systems**, **Multi-Agent RL**, and **Generative & Multimodal Recommendation**:
+My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent LLM Systems**, **Multi-Agent RL**, and **Generative & Multimodal Ranking**:
 
 - **Agentic LLM Systems**
   - Long-term Memory
