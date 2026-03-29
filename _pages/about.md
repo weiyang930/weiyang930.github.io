@@ -54,7 +54,7 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 
 | Date | Update |
 |---|---|
-| Mar 13, 2026 | 🎉 Our team was selected as a **finalist** for the **2026 Qualcomm Innovation Fellowship**: [link](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america) |
+| Mar 13, 2026 | 🎉 Our team was selected as a **Finalist** for the **2026 Qualcomm Innovation Fellowship**: [link](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america) |
 | Mar 06, 2026 | 🎤 Gave a **talk at NICE AI** on **Human-Multi-Agent Collaboration**: [post](https://www.linkedin.com/feed/update/urn:li:activity:7435401936805339138/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFkxkoQBIrAQt3H40vBZyL8HVlmyZnNBbCA) |
 | Feb 25, 2026 | 🎉 One paper is accepted by **TMLR 2026**. |
 | Feb 20, 2026 | 🔥 We release **TemporalBench Benchmark for LLM Agents on Contextual Time Series**: [article](https://arxiv.org/pdf/2602.13272)
