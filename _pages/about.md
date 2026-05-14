@@ -26,8 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Wei Yang. Currently, I am pursuing my Ph.D. at the [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern California (USC), under the guidance of Prof. [Jesse Thomason](https://jessethomason.com/). I am a member of the [GLAMOR Lab](https://glamor-usc.github.io/). I received my B.S. degree from Huazhong University of Science and Technology.
-
+My name is Wei Yang. I am currently a Ph.D. candidate at the [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern California (USC), where I am advised by Prof. [Jesse Thomason](https://jessethomason.com/) and Prof. [Xuezhe Ma](https://xuezhemax.github.io/). I am a member of the [GLAMOR Lab](https://glamor-usc.github.io/). I received my B.S. degree from Huazhong University of Science and Technology.
 
 ## 🔬 Research Interests
 
@@ -54,7 +53,7 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 
 | Date | Update |
 |---|---|
-| Apr 30, 2026 | 🎉 One paper is accepted by **ICML 2026**. |
+| Apr 30, 2026 | 🎉 One paper is accepted by **ICML 2026**. Honored to be nominated as a **Gold Reviewer**.|
 | Apr 02, 2026 | 🎉 One paper is accepted by **SIGIR 2026**. |
 | Mar 13, 2026 | 🎉 Our team is selected as a <span style="color:#d11a2a;"><b>Finalist</b></span> for the <span style="color:#d11a2a;"><b>2026 Qualcomm Innovation Fellowship</b></span>: [link](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america) |
 | Mar 06, 2026 | 🎤 Give a **Talk at NICE AI** on **Human-Multi-Agent Collaboration**: [post](https://www.linkedin.com/feed/update/urn:li:activity:7435401936805339138/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFkxkoQBIrAQt3H40vBZyL8HVlmyZnNBbCA) |
