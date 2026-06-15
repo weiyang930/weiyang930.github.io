@@ -26,7 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Wei Yang. I am currently a Ph.D. candidate at the [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern California (USC), where I am advised by Prof. [Jesse Thomason](https://jessethomason.com/) and Prof. [Xuezhe Ma](https://xuezhemax.github.io/). I am a member of the [GLAMOR Lab](https://glamor-usc.github.io/). I received my B.S. degree from Huazhong University of Science and Technology.
+My name is Wei Yang. I am currently a Ph.D. candidate at the [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern California (USC), advised by Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/), Prof. [Jesse Thomason](https://jessethomason.com/), and Prof. [Xuezhe Ma](https://xuezhemax.github.io/). I am a member of the [FORTIS Lab](https://viterbi-web.usc.edu/~yzhao010/lab.html) and the [GLAMOR Lab](https://glamor-usc.github.io/). I received my B.S. degree from Huazhong University of Science and Technology.
+
+<!-- My name is Wei Yang. I am currently a Ph.D. candidate at the [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern California (USC), where I am honored to be advised by Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/), Prof. [Jesse Thomason](https://jessethomason.com/), and Prof. [Xuezhe Ma](https://xuezhemax.github.io/). I am also fortunate to be a member of the [FORTIS Lab](https://viterbi-web.usc.edu/~yzhao010/lab.html) and the [GLAMOR Lab](https://glamor-usc.github.io/). I received my B.S. degree from Huazhong University of Science and Technology. -->
 
 ## 🔬 Research Interests
 
@@ -38,9 +40,13 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
   - Role Coordination
   - Reliable LLM Judgement
 
-- **Efficient MAS LLMs Post-training**
+- **MAS LLMs RL Post-training**
   - LLM Reasoning Compression
   - Cost-Aware & Budgeted Collaboration
+  - Rubrics-oriented Long-form Generation
+
+- **Multi-Agent Reinforcement Learning**
+  - General RL Framework for MAS LLMs
   - Efficient MARL Algorithms
 
 - **Generative & Multimodal Ranking**
