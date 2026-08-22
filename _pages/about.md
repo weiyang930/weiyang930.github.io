@@ -59,6 +59,7 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 
 | Date | Update |
 |---|---|
+| Aug 20, 2026 | 🎉🎉 Two papers are accepted by **EMNLP 2026**. |
 | Jul 10, 2026 | 🎉 One paper is accepted by **ICCAD 2026**. |
 | Jun 09, 2026 | 🎉 One paper is accepted by **TMLR 2026**. |
 | May 26, 2026 | 🔥🔥🔥 We release <span style="color:#d11a2a;"><b>UnityMAS-O: A General RL Optimization Framework for Multi-Agent LLM Systems</b></span> [article](https://arxiv.org/abs/2605.26646) |
