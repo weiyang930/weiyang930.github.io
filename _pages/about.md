@@ -60,7 +60,7 @@ My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent
 | Date | Update |
 |---|---|
 | Sep 24, 2026 | 🎉🎉 Two papers are accepted by **NeurIPS 2026**. |
-| Sep 02, 2026 | 🎉 One papers is accepted by **AI OPEN**(IF8.9, CiteScore31.3). |
+| Sep 02, 2026 | 🎉 One papers is accepted by **AI OPEN** [IF8.9, CiteScore31.3]. |
 | Aug 20, 2026 | 🎉🎉 Two papers are accepted by **EMNLP 2026**. |
 | Jul 10, 2026 | 🎉 One paper is accepted by **ICCAD 2026**. |
 | Jun 09, 2026 | 🎉 One paper is accepted by **TMLR 2026**. |
