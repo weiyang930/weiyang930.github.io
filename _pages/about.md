@@ -28,7 +28,7 @@ latest_posts:
 
 My name is Wei Yang. I am currently a Ph.D. candidate at the [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern California (USC), advised by Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/), Prof. [Jesse Thomason](https://jessethomason.com/), and Prof. [Xuezhe Ma](https://xuezhemax.github.io/). I am a member of the [FORTIS Lab](https://viterbi-web.usc.edu/~yzhao010/lab.html) and the [GLAMOR Lab](https://glamor-usc.github.io/). I received my B.S. degree from Huazhong University of Science and Technology.
 
-<!-- My name is Wei Yang. I am currently a Ph.D. candidate at the [Viterbi School of Engineering](https://viterbischool.usc.edu/), University of Southern California (USC), where I am honored to be advised by Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/), Prof. [Jesse Thomason](https://jessethomason.com/), and Prof. [Xuezhe Ma](https://xuezhemax.github.io/). I am also fortunate to be a member of the [FORTIS Lab](https://viterbi-web.usc.edu/~yzhao010/lab.html) and the [GLAMOR Lab](https://glamor-usc.github.io/). I received my B.S. degree from Huazhong University of Science and Technology. -->
+<span style="color:red">**I am on the 2027 job market! Please feel free to reach out if you think I would be a good fit, and I would greatly appreciate any referrals.**</span>
 
 ## 🔬 Research Interests
 
