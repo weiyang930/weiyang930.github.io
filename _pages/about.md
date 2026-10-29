@@ -32,27 +32,27 @@ My name is Wei Yang. I am currently a Ph.D. candidate at the [Viterbi School of 
 
 ## 🔬 Research Interests
 
-My research interests primarily lie in **Agentic LLMs**, **Efficient Multi-Agent LLM Systems**, **Multi-Agent RL**, and **Generative & Multimodal Ranking**:
+My research interests primarily lie in **Multi-Agent LLM Systems**, **Agentic Data Synthesis**, **Self-Evolving LLMs**, **Multi-Agent RL**, and **Generative & Multimodal Ranking**:
 
 - **Agentic LLM Systems**
   - Long-term Memory
-  - Meta-Thinking Collaboration
-  - Role Coordination
-  - Reliable LLM Judgement
-
-- **MAS LLMs RL Post-training**
+  - Meta-Thinking MAS Collaboration
   - LLM Reasoning Compression
-  - Cost-Aware & Budgeted Collaboration
-  - Rubrics-oriented Long-form Generation
+  - Rubrics-oriented Auto-Research
 
-- **Multi-Agent Reinforcement Learning**
+- **Data Synthesis for Self-Evolving LLMs**
+  - Agentic Data Synthesis
+  - Feedback-driven Self-Evolving LLMs
+  - Synthesis - Reasoning Agents Co-training
+
+- **Multi-Agent LLMs RL Co-training**
   - General RL Framework for MAS LLMs
   - Efficient MARL Algorithms
 
 - **Generative & Multimodal Ranking**
-  - User Lifelong Preference Reasoning
-  - Preference Alignment & Optimization
+  - User Preference Reasoning, Alignment & Optimization
   - Cross-Modal Fusion & Alignment
+  - Multi-Agent Collaboration for Reranking
 
 
 ## 🗞️ News
