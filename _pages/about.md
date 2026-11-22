@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: wechat_2.jpg
+  image: Head_Picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><i class="fa-solid fa-building-columns"></i> Viterbi School of Engineering, USC</p>
